@@ -4,3 +4,10 @@ git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Omhari26/houston.git
+git push -u origin master
+
+FOR PULL FROM GITHUB
+
+git remote add origin https://github.com/Omhari26/houston.git
+git branch -M master
+git pull origin master
